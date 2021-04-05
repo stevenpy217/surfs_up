@@ -8,11 +8,11 @@ The purpose of our analysis is to see temperature statistics for June and Decemb
 
 Below is the result for June.
 
-![June](june.png)
+![](june.png)
 
 Below is the result for Dec.
 
-![Dec](dec.png)
+![](dec.png)
 
 ## Summary
 
